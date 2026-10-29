@@ -1,1 +1,1 @@
-# country-schools-lab
+# Country Schools Lab
